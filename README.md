@@ -3,9 +3,13 @@ Ace Stream Player
 
 Tested with VLC version **2.1.5**
 
+**Clone this Repository**
+
+`git clone https://github.com/gopalraha/acestream-player/`
+
 **Cross compile for Windows:**
 
-Reqiured:
+Dependencies Reqiured:
 
 mingw-w64 gcc-mingw-w64-i686 g++-mingw-w64-i686 mingw-w64-tools lua5.1 libtool automake autoconf autopoint make gettext pkg-config qt4-dev-tools
 
