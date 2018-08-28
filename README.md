@@ -1,4 +1,4 @@
-Ace Stream Player
+AceStream Player
 -----------------
 
 Tested with VLC version **2.1.5**
